@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cardplus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Class1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="IDfnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusicPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PWfind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Upload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Upload2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpSub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VideoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
